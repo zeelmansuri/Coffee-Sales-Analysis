@@ -1,5 +1,6 @@
 ☕ Coffee Dashboard
 
+
 📊 Overview
 The Coffee Dashboard is a professional Excel-based analytics tool that brings together sales, customer, and inventory data into one interactive view. It helps managers and analysts quickly spot trends, track performance, and make data-driven decisions.
 
